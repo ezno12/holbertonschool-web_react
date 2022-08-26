@@ -8,7 +8,7 @@ $('body').append('<p id="count"></p>')
 $('body').append('<p>Copyright - Holberton School</p>')
 
 
-$("button").on('click', _.debounce(updateCounter, 300))
+$("button").on('click', _.debounce(updateCounter, 500))
 
 let count = 0;
 function updateCounter() {
