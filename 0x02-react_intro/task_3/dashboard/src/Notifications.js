@@ -16,7 +16,7 @@ const Notifications = () => {
     return (
         <div className="Notifications">
             <button aria-label="Close" style={btnStyle} onClick={() => console.log('Close button has been clicked')}>
-            <img src={closeIcon} width='10px' />
+            <img src={closeIcon} width='10px' alt="close-icon"/>
             </button>
             <p>Here is the list of notifications</p>
             <ul>
