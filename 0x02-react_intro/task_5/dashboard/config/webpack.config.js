@@ -40,4 +40,11 @@ module.exports = {
       },
     ],
   },
+  plugins: [
+    new HtmlWebpackPlugin({
+			template: './dist/index.html',
+      title: 'Holberton Dashboard',
+    }),
+    new CleanWebpackPlugin(),
+  ],
 };
