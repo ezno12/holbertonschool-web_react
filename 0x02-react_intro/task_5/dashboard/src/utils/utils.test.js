@@ -1,4 +1,4 @@
-import { getFullYear, getFooterCopy, getLatestNotification } from '../../../../task_2/dashboard/src/utils';
+import { getFullYear, getFooterCopy, getLatestNotification } from './utils';
 
 describe('Create basic tests with four tests', function () {
   describe('check that the function getFullYear returns the correct year', function () {
