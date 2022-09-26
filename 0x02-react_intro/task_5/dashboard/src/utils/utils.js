@@ -7,7 +7,7 @@ export const getFooterCopy = (isIndex) =>{
         "Holberton School"
     )
     else return (
-        "Holberton School main dashboard"
+        "Holberton School Main Dashboard"
     )
 }
 
