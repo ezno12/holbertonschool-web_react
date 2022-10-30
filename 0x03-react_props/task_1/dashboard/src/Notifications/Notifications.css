@@ -1,0 +1,11 @@
+.Notifications {
+    border-style: 1rem;
+    padding: 2rem;
+}
+[data-priority="default"] {
+    color: blue;
+}
+
+[data-priority="urgent"] {
+    color: red;
+}
