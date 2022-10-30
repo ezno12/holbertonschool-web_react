@@ -1,10 +1,11 @@
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom/client';
-import './App.css';
-import '../Header/Header'
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Login from '../Login/Login';
+import '../Login/Login.css'
+import '../Header/Header.css'
+import '../Footer/Footer.css'
 import Notifications from '../Notifications/Notifications'
 
 
