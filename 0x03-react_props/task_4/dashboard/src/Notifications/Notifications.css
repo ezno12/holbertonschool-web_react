@@ -1,6 +1,6 @@
 .Notifications {
     border-style: 1rem;
-    padding: 2rem;
+    padding: 0 2rem;
 }
 ul li[data-priority="default"] {
     color: blue;
@@ -9,3 +9,14 @@ ul li[data-priority="default"] {
 ul li[data-priority="urgent"] {
     color: red;
 }
+.container {
+    width: fit-content;
+    position: absolute;
+    right: 1rem;
+}
+
+.menuItem {
+    width: fit-content;
+    margin-left: auto;
+}
+

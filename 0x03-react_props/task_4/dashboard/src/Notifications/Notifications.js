@@ -16,7 +16,7 @@ const Notifications = ({displayDrawer}) => {
         fontSize: '1rem'
     }
     return (
-        <div>
+        <div className="container">
         <div className="menuItem">
             <p>Your notifications</p>
         </div>
