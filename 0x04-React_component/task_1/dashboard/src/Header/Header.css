@@ -1,0 +1,20 @@
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+    padding-left: 1rem;
+  }
+  
+  .App-header {
+    min-height: 40vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-header h1 {
+    color: #e1003c;
+  }
