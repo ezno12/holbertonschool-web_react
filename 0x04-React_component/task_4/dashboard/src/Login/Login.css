@@ -1,0 +1,14 @@
+.login {
+  text-align: center;
+}
+
+.login-container {
+  border-style: solid none;
+  border-color: #e1003c ;
+  min-height: 50vh;
+}
+
+.login-p {
+    text-align: left;
+    padding-left: 3rem;
+  }
